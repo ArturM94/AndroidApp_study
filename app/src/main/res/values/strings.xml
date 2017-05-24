@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Just do it!</string>
+    <string name="text_MainAct">Hi! Choose one of these Layouts</string>
+    <string name="text_ActOne">LinearLayout (vertical)</string>
+    <string name="text_btn_LinearLayout">LinearLayout</string>
+    <string name="text_btn_RelativeLayout">RelativeLayout</string>
+    <string name="text_btn_GridLayout">GridLayout</string>
+    <string name="text_btn_ok">Ok</string>
+    <string name="text_btn_cancel">Cancel</string>
+</resources>
